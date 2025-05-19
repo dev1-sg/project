@@ -24,7 +24,7 @@ jobs:
 
       - name: 'sync to profile'
         run: |
-          rsync -av --delete --exclude='.git' --exclude='.github' source/ target/profile/
+          rsync -av source/README.md target/profile/README.md
           cd target
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
