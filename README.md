@@ -21,7 +21,7 @@ This will establish a foundation for interoperability between tools, conformance
 
 We welcome anyone who would like to get involved.
 
-Be sure to review the OpenGitOps [contributing guidelines](https://github.com/dev1-sg/.github/blob/main/CONTRIBUTING.md) and [code of conduct](https://github.com/dev1-sg/.github/blob/main/CODE_OF_CONDUCT.md).
+Be sure to review the [contributing guidelines](https://github.com/dev1-sg/.github/blob/main/CONTRIBUTING.md) and [code of conduct](https://github.com/dev1-sg/.github/blob/main/CODE_OF_CONDUCT.md).
 
 ### Security
 
