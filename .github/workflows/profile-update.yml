@@ -18,16 +18,16 @@ jobs:
       - name: 'checkout target repo'
         uses: actions/checkout@v3
         with:
-          repository: dev1-sg/project
+          repository: dev1-sg/.github
           token: ${{secrets.GH_TOKEN}}
           path: target
 
       - name: 'sync to profile'
         run: |
-          rsync -av --delete --exclude='.git' --exclude='.github' source/ target/
+          rsync -av --delete --exclude='.git' --exclude='.github' source/ target/profile/
           cd target
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add .
-          git diff-index --quiet HEAD || git commit -m "Sync from dev1-sg/project"
+          git commit -m "Sync from dev1-sg/project"
           git push
