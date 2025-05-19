@@ -1,2 +1,35 @@
-# project
-Repository for top-level information about the dev1-sg project
+# dev1-sg
+
+<p><img src="https://github.com/dev1-sg/project/blob/main/artwork/manifest/web-app-manifest-512x512.png?raw=true" alt="dev1-sg logo icon" width="150"></p>
+
+## Mission
+
+Welcome!
+dev1-sg is a devops project to define a vendor-neutral, principle-led meaning of GitOps.
+
+This will establish a foundation for interoperability between tools, conformance, and certification through lasting programs, documents, and code.
+
+## Repositories
+
+<!-- markdownlint-disable MD033 -->
+| | Name | Description |
+| -- | -- | -- |
+| <img src="https://openmoji.org/data/color/svg/1F4C4.svg" width="100"> | [documents](https://github.com/dev1-sg/documents) |  Lasting documents for the dev1-sg project |
+| <img src="https://openmoji.org/data/color/svg/1F5D3.svg" width="100"> | [project](https://github.com/dev1-sg/project) | Top-level information about the dev1-sg project (this repo) |
+| <img src="https://openmoji.org/data/color/svg/1F310.svg" width="100"> | [website](https://github.com/dev1-sg/website) | Source code for dev1-sg website |
+| <img src="https://openmoji.org/data/color/svg/1FA7A.svg" width="100"> | [.github](https://github.com/dev1-sg/.github) | Organization-wide [default community health files](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) for all dev1-sg project repos |
+
+### Contributing
+
+We welcome anyone who would like to get involved.
+
+Be sure to review the OpenGitOps [contributing guidelines](https://github.com/dev1-sg/.github/blob/main/CONTRIBUTING.md) and [code of conduct](https://github.com/dev1-sg/.github/blob/main/CODE_OF_CONDUCT.md).
+
+### Security
+
+Reporting a security vulnerability? Check out the project's [security policy](https://github.com/dev1-sg/.github/blob/main/SECURITY.md).
+
+### Support
+
+Looking for help?
+Check out the project’s [instructions for getting support](https://github.com/dev1-sg/.github/blob/main/SUPPORT.md).
