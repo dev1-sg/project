@@ -6,6 +6,11 @@ Logo creation discussion and consensus : [Github discussion](https://github.com/
 
 ## Logo
 
+<div align="center">
+<img src="https://github.com/dev1-sg/project/blob/main/artwork/dev1-sg-logo-transparent.png?raw=true" width=400px  /><hr/>
+<img src="https://github.com/dev1-sg/project/blob/main/artwork/dev1-sg-logo.png?raw=true" width=400px  /><hr/>
+</div>
+
 ## Source Files
 
 The branding was created in [Adobe Illustrator](https://www.adobe.com/fr/products/illustrator.html), [source files](../src/) are created in the vector `.ai` format.?
