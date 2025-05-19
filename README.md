@@ -1,7 +1,8 @@
 ## Mission
 
-Welcome!  
-**dev1-sg** is a DevOps initiative aimed at defining a vendor-neutral and principles-driven understanding of DevOps.
+Welcome!
+
+dev1-sg is a DevOps initiative aimed at defining a vendor-neutral and principles-driven understanding of DevOps.
 
 Our goal is to lay the groundwork for tool interoperability, compliance, and certification through enduring programs, documentation, and code.
 
