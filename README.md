@@ -1,5 +1,3 @@
-# dev1-sg
-
 ## Mission
 
 Welcome!
