@@ -18,3 +18,16 @@ The branding was created in [Adobe Illustrator](https://www.adobe.com/fr/product
 ## Styleguide
 
 ![opengitops-styleguide-typography](https://github.com/dev1-sg/project/blob/main/artwork/dev1-sg-styleguide.png?raw=true)
+
+## Panetone
+https://github.com/dev1-sg/project/blob/main/artwork/dev1-sg-panetone-1.png?raw=true
+<table>
+  <tr>
+    <td><img src="https://github.com/dev1-sg/project/blob/main/artwork/dev1-sg-panetone-1.png?raw=true" width="400"/></td>
+    <td><img src="https://github.com/dev1-sg/project/blob/main/artwork/dev1-sg-panetone-2.png?raw=true" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/dev1-sg/project/blob/main/artwork/dev1-sg-panetone-3.png?raw=true" width="400"/></td>
+    <td><img src="https://github.com/dev1-sg/project/blob/main/artwork/dev1-sg-panetone-4.png?raw=true" width="400"/></td>
+  </tr>
+</table>
