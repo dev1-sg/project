@@ -20,7 +20,7 @@ The branding was created in [Adobe Illustrator](https://www.adobe.com/fr/product
 ![opengitops-styleguide-typography](https://github.com/dev1-sg/project/blob/main/artwork/dev1-sg-styleguide.png?raw=true)
 
 ## Panetone
-https://github.com/dev1-sg/project/blob/main/artwork/dev1-sg-panetone-1.png?raw=true
+
 <table>
   <tr>
     <td><img src="https://github.com/dev1-sg/project/blob/main/artwork/dev1-sg-panetone-1.png?raw=true" width="400"/></td>
