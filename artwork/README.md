@@ -1,6 +1,6 @@
 # dev1-sg Branding
 
-Here you'll find logo assets and a brand styleguide for the dev1-sg project.
+Here you'll find logo artwork and a brand styleguide for the dev1-sg project.
 
 Logo creation discussion and consensus : [Github discussion](https://github.com/orgs/dev1-sg/discussions/1)
 
